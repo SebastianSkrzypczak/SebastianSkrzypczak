@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebastianSkrzypczak
-- 👀 I’m interested in motorcycles, machine design and spending time with my dog Jakiv
+- 👀 I’m interested in motorcycles, machines design and spending time with my dog Jakiv
 - 🌱 I’m currently learning Python and Django
 - 📫 How to reach me:
       -> sebastian.skrzypczak98@gmail.com
