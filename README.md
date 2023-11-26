@@ -1,11 +1,18 @@
-I'm an ambitious, willing-to-learn engineer who wants to broaden my skills in IT. I'm focused on designing "as simple as possible," well-working machines, and writing readable and scalable clean code. I'm eager to combine my mechanical engineering expertise with my growing IT skills to contribute to innovative and efficient solutions. Continuous learning and exploring new challenges are essential to me, and I'm excited to embrace opportunities that will further expand my knowledge and abilities.
+# 👋 Hi there, I'm Sebastian Skrzypczak!
 
-- 📫 How to reach me:
-      -> sebastian.skrzypczak98@gmail.com
-      -> https://www.linkedin.com/in/sebastian-skrzypczak/
+I'm an ambitious and willing-to-learn engineer with a focus on writing code that is clean, readable, and scalable.
 
-<!---
-SebastianSkrzypczak/SebastianSkrzypczak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎯 Key Focus Areas
+- 💡 **Design Philosophy:** Creating simple yet highly functional applications.
+- 🚀 **Coding Style:** Prioritizing readability and scalability.
 
+## 🚀 What Drives Me
+Continuous learning and exploring new challenges are essential to me. I am excited to embrace opportunities that will further expand my knowledge and abilities in the realm of IT and engineering.
+
+## 📬 How to Reach Me
+- 📧 **Email:** [sebastian.skrzypczak98@gmail.com](mailto:sebastian.skrzypczak98@gmail.com)
+- 🔗 **LinkedIn:** [Sebastian Skrzypczak](https://www.linkedin.com/in/sebastian-skrzypczak/)
+
+Feel free to connect with me! I'm always open to discussions, collaborations, and new opportunities.
+
+Let's build something great together! 🔧
