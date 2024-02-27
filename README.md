@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Sebastian Skrzypczak!
 
+## I'm back after long break (house renoval) and ready to work! 
+
 I'm an ambitious and willing-to-learn engineer with a focus on writing code that is clean, readable, and scalable.
 
 ## 🎯 Key Focus Areas
